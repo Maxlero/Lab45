@@ -1,8 +1,8 @@
 # Lab3
-Numerical solution of nonlinear equations.
+Numerical solution of systems of nonlinear equations.
 
-The Lobachevsky method, the Bernoulli method
+iteration method, Newton's method
 ***
-Численное решение нелинейных уравнений.
+Численное решение систем нелинейных уравнений.
 
-метод Лобачевского, метод Бернулли
+метод итерации, метод Ньютона
